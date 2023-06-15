@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on computer vision project
 - 🌱 I’m currently learning Deep learning concepts
-- 🤔 I’m looking for help with my Data sciecne job search 
+- 🤔 I’m looking for help with my Data science job search 
 - 📫 How to reach me: shubham121c@gmail.com
 
 Find my resume here:
